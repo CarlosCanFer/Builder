@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\bin\Debug\EjempliBuilder.exe.config
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\bin\Debug\EjempliBuilder.exe
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\bin\Debug\EjempliBuilder.pdb
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\obj\Debug\EjempliBuilder.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\obj\Debug\EjempliBuilder.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\obj\Debug\EjempliBuilder.exe
+C:\Users\carlos.can\source\repos\EjempliBuilder\EjempliBuilder\obj\Debug\EjempliBuilder.pdb
